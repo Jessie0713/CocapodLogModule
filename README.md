@@ -1,4 +1,4 @@
-# Ulti
+# UsefulLogModule
 
 [![CI Status](https://img.shields.io/travis/82069976/Ulti.svg?style=flat)](https://travis-ci.org/82069976/Ulti)
 [![Version](https://img.shields.io/cocoapods/v/Ulti.svg?style=flat)](https://cocoapods.org/pods/Ulti)
@@ -17,7 +17,7 @@ Ulti is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Ulti'
+pod 'UsefulLogModule'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ pod 'Ulti'
 
 ## License
 
-Ulti is available under the MIT license. See the LICENSE file for more info.
+UsefulLogModule is available under the MIT license. See the LICENSE file for more info.
