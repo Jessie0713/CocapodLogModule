@@ -2,7 +2,7 @@ import Foundation
 import os.log
 public class lg {
   public static func debug(_ items: Any..., file: String = #file, function: String = #function,
-         line: Int = #line, tag: String = "WEB =>") {
+         line: Int = #line, tag: String = "WEB => Jessie") {
     #if DEBUG
     let fileName = (file as NSString).lastPathComponent
     let dateFormatter = DateFormatter()
